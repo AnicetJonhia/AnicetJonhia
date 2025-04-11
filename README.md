@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**AnicetJonhia/AnicetJonhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋. Welcome to my profile</h1>
+<h3 align="center">I'm an AI / Software Developer </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<h2 align="center">Languages and Tools to Code</h2>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
+  <img src="https://img.shields.io/badge/-angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB"/>
+  <img src="https://img.shields.io/badge/nestjs-2E7EEA?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-092749?style=for-the-badge&logo=python&logoColor=06B6D4&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-593D88?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FF4154?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<br/>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/AnicetJonhia">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnicetJonhia&theme=radical&border=7F3FBF&background=0D1117" alt="AnicetJonhia's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AnicetJonhia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnicetJonhia&theme=radical" alt="AnicetJonhia's GitHub Contribution"/>
+  </a>
+</p>
+
