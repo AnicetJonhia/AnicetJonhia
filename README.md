@@ -1,30 +1,27 @@
-
-
-<h1 align="center">Hi there 👋. Welcome to my profile</h1>
-<h3 align="center">I'm an AI / Software Developer </h3>
+<h1 align="center">Hello there</h1>
+<h3 align="center">I'm an AI / Software Developer</h3>
 
 <br/>
 
-<h2 align="center">Languages and Tools to Code</h2>
-<br/>
-
+<h2 align="center">🚀 Languages and Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
-  <img src="https://img.shields.io/badge/-angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB"/>
-  <img src="https://img.shields.io/badge/nestjs-2E7EEA?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-092749?style=for-the-badge&logo=python&logoColor=06B6D4&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-593D88?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FF4154?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=0A2647&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=0A2647&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=0A2647&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&labelColor=0A2647&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&labelColor=0A2647&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=0A2647&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=0A2647&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&labelColor=0A2647&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=0A2647&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&labelColor=0A2647&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX Design-FF4088?style=for-the-badge&labelColor=0A2647&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA-En Exploration-0A2647?style=for-the-badge&labelColor=0A2647&logo=openai&logoColor=white"/>
 </p>
 
 <br/>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/AnicetJonhia">
@@ -37,4 +34,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnicetJonhia&theme=radical" alt="AnicetJonhia's GitHub Contribution"/>
   </a>
 </p>
-
