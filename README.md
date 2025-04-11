@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&labelColor=0A2647&logo=tailwindcss&logoColor=06B6D4"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=0A2647&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&labelColor=0A2647&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UX Design-FF4088?style=for-the-badge&labelColor=0A2647&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-En Exploration-0A2647?style=for-the-badge&labelColor=0A2647&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX / UI Design-FF4088?style=for-the-badge&labelColor=0A2647&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI in exploration-0A2647?style=for-the-badge&labelColor=0A2647&logo=openai&logoColor=white"/>
 </p>
 
 <br/>
