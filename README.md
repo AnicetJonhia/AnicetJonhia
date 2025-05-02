@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 🔥🤝</h1>
-<h3 align="center">I'm an AI / Software Developer.</h3>
+<h3 align="center">I'm an AI / Software Developer...</h3>
 <br/>
 <h2 align="center">🚀 Languages and Tools</h2>
 <p align="center">
